@@ -12,12 +12,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "ff495bf35e9fea0e",
-        "key": "ash256ug",
-        "expirydate": "12-8-2025",
-        "Allowoffline": true
-    },
-    {
         "device_id": "b5046220421ff3a3",
         "key": "1234",
         "expirydate": "4-9-2025",
@@ -27,6 +21,12 @@
         "device_id": "2e19debf07d515ee",
         "key": "1230",
         "expirydate": "4-9-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ff495bf35e9fea0e",
+        "key": "ash256ug",
+        "expirydate": "15-8-2025",
         "Allowoffline": true
     },
 ]
