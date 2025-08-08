@@ -1,4 +1,4 @@
-[
+4[
     {
         "device_id": "device123",
         "key": "key12345",
@@ -39,12 +39,6 @@
         "device_id": "94dbfaeab0127d1f",
         "key": "1220",
         "expirydate": "5-9-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "94dbfaeab0127d1f",
-        "key": "1212",
-        "expirydate": "6-9-2025",
         "Allowoffline": true
     },
 ]
